@@ -1,5 +1,4 @@
-﻿
-Console.ForegroundColor = (ConsoleColor)Random.Shared.Next(1, 15);
+﻿Console.ForegroundColor = (ConsoleColor)Random.Shared.Next(1, 15);
 
 string[] names = ["Zoltán", ];
 
