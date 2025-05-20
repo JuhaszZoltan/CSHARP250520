@@ -1,7 +1,7 @@
 ﻿Console.ForegroundColor = (ConsoleColor)Random.Shared.Next(1, 15);
 
 string[] names = ["Zoltán", "Sándor", "Dezső", "Anikó"];
-
+Console.WriteLine("GitHub");
 Console.WriteLine($"This prg created by: {string.Join(", ", names)}");
 
 Console.WriteLine("some randompy placed star :333");
